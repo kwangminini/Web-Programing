@@ -1,0 +1,5 @@
+URL (Unifor Resource Locator)
+  - 인터넷 상의 자원의 위치
+  - 특정 웹 서버의 특정파일에 접근하기 위한 경로 혹은 주소
+  
+ 
