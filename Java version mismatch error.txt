@@ -1,0 +1,4 @@
+java version mismatch 오류 해결법
+
+   - 프로젝트 우클릭 properties > Java Compiler의 Compiler compliance level을 확인 (1.8이었음)
+   - Project Facets에서 Java version을 일치시켜준다 (11 -> 1.8)
