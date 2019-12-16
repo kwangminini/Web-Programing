@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class ApplicationContextExame04 {
 	public static void main(String[] args) {
-		ApplicationContext ac = new AnnotationConfigApplicationContext(ApplicationConfig.class);
+		ApplicationContext ac = new AnnotationConfigApplicationContext(ApplicationConfig2.class);
 		
 		Car car = (Car)ac.getBean(Car.class);
 		car.run();

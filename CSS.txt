@@ -1,0 +1,2 @@
+float를 한 자식은 자식으로 인식을 하기위해서는
+부모에 overflow:auto or hiden을 주어야한다.
