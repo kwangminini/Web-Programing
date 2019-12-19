@@ -54,14 +54,14 @@ section{
 	background-color: white;
 	flex-direction: column;
 	position: relative;
+	align-items: center;
 }
 .section-text-div{
-	text-align: center;
+	width: 700px;
+	text-align: left;
 	margin-top: 30px;
 }
-.section-text-div p{
-	margin-top: 20px;
-}
+
 .section-menu-div ul{
 	display: flex;
 	justify-content: center;
